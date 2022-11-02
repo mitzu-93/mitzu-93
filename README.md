@@ -7,6 +7,7 @@
 <p dir="auto"><a href="https://onyxwrench.medium.com/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/366cd15c6d4a4510245602f533a13b1cf4119c152964c25eedb88607fdaab870/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d626c61636b3f7374796c653d666c6174266c6f676f3d6d656469756d266c6162656c436f6c6f723d626c61636b" alt="muhammad ali" data-canonical-src="https://img.shields.io/badge/Medium-black?style=flat&amp;logo=medium&amp;labelColor=black" style="max-width: 100%;"></a></p>
 
 <h3>Stats</h3>
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=react-dark&hide_border=true&area=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitzu-93&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
