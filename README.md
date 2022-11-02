@@ -1,1 +1,1 @@
-
+<a href="https://www.linkedin.com/in/muhammad-ali-78076b21a/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/53c6407d5362926dd79e630bb89af3d866687bd2722885007323e6888a610a2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c61636b" alt="muhammad ali" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=linkedin&amp;labelColor=black" style="max-width: 100%;"></a>
