@@ -34,5 +34,4 @@
   <li>Unsupervised Learning, Recommenders, Reinforcement Learning</li>
   <li>Machine Learning Specialisation</li>
   <li>Mathematics for Machine Lerning Specialisation [Ongoing]</li>
-  <li>IBM Data Science [Ongoing]</li>
 </ol>
