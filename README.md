@@ -13,7 +13,7 @@
 
 <h3>Languages/Technologies used</h3>
 
-<ol>
+<ul>
   <li>HTML</li>
   <li>Python</li>
   <li>Pandas</li>
@@ -26,29 +26,29 @@
   <li>Git/Version control</li>
   <li>Mathematics</li>
   <li>Linux</li>
-</ol>
+</ul>
 
 <h3>Certifications</h3>
 
-<ol>
+<ul>
   <li>Supervised Machine Learning: Regression and Classification</li>
   <li>Advanced Learning Algorithms</li>
   <li>Unsupervised Learning, Recommenders, Reinforcement Learning</li>
   <li>Machine Learning Specialisation</li>
   <li>Mathematics for Machine Lerning Specialisation [Ongoing]</li>
-</ol>
+</ul>
 
 
 <h3>Projects</h3>
 
-<ol>
+<ul>
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis</li>
-</ol>
+</ul>
 
 <h3>Books I am reading</h3>
 
-<ol>
+<ul>
   <li><a href="https://github.com/mitzu-93/statsandcalc" target="_blank">Stats and Calculus with Python</a> by Peter Farrell, Alvaro Fuentes, Ajinkya Sudhir Kolhe, Quan Nguyen, Alexander Joseph Sarver and Marios Tsatsos</li>
   <li>Open Intro Statistics by David Diez, Mine Cetinkaya-Rundel and Christopher D Barr</li>
   <li>Python Machine Learning by Sebastian Raschka and Vahid Mirjalili</li>
-</ol>
+</ul>
