@@ -1,9 +1,9 @@
 <h1>Hello, welcome!</h1>
 <h3>I am a data scientist based in England</h3>
 <p>This is my desk buddy.</p>
-![Gengar]([http://url/to/img.pn](https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Gengar.jpg))
+![Gengar](https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Gengar.jpg)
 <p>And this is what my setup looks like</p>
-![Desktop]([http://url/to/img.png](https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg))
+![Desktop](https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg)
 
 
 <h3>Stats</h3>
