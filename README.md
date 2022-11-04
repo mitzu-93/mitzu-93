@@ -1,8 +1,6 @@
 <h1>Hello, welcome!</h1>
 <h3>I am a data scientist based in England</h3>
-<p>This is my desk buddy.</p>
-<img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Gengar.jpg' style='img: width 200px, height:auto'>
-<p>And this is what my setup looks like</p>
+<p>This is my desk buddy and setup.</p>
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 
