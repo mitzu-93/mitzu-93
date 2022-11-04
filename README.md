@@ -1,6 +1,6 @@
 <h1>Hello, welcome!</h1>
 <h3>I am a data scientist based in England</h3>
-<p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a></p>
+<p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a>. You can also find my resume repo <a href="https://github.com/mitzu-93/resume" target="_blank">here.</a></p>
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 
@@ -36,4 +36,17 @@
   <li>Unsupervised Learning, Recommenders, Reinforcement Learning</li>
   <li>Machine Learning Specialisation</li>
   <li>Mathematics for Machine Lerning Specialisation [Ongoing]</li>
+</ol>
+
+
+<h3>Projects</h3>
+
+<ol>
+  <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis</li>
+</ol>
+
+<h3>Books I have or am currently reading</h3>
+
+<ol>
+  <li><a href="https://github.com/mitzu-93/statsandcalc" target="_blank">Stats and Calculus with Python</li>
 </ol>
