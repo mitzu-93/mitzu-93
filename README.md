@@ -45,8 +45,10 @@
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis</li>
 </ol>
 
-<h3>Books I have or am currently reading</h3>
+<h3>Books I am reading</h3>
 
 <ol>
-  <li><a href="https://github.com/mitzu-93/statsandcalc" target="_blank">Stats and Calculus with Python</li>
+  <li><a href="https://github.com/mitzu-93/statsandcalc" target="_blank">Stats and Calculus with Python by Peter Farrell, Alvaro Fuentes, Ajinkya Sudhir Kolhe, Quan Nguyen, Alexander Joseph Sarver and Marios Tsatsos</li>
+  <li>Open Intro Statistics by David Diez, Mine Cetinkaya-Rundel and Christopher D Barr</li>
+  <li>Python Machine Learning by Sebastian Raschka and Vahid Mirjalili</li>
 </ol>
