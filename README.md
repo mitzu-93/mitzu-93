@@ -42,7 +42,7 @@
 
 <ul>
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis [November 11]</li>
-  <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Walmart Analysis [Ongoing]</li>
+  <li><a href="[https://github.com/mitzu-93/sales-anal](https://github.com/mitzu-93/walmart)" target="_blank">Walmart Analysis [Ongoing]</li>
 </ul>
 
 <h3>Books I am reading</h3>
