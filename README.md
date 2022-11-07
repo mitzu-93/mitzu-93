@@ -16,7 +16,6 @@
   <li>HTML</li>
   <li>Python</li>
   <li>Pandas</li>
-  <li>Tensorflow</li>
   <li>Matplotlib</li>
   <li>SQL</li>
   <li>Jupyter Notebook</li>
