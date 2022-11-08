@@ -66,4 +66,6 @@
   <li><a href="https://onyxwrench.medium.com/advanced-filtering-in-or-and-not-31aeaf764c75" target="_blank">Advanced Filtering: IN, OR, and NOT</a></li>
   <li><a href="https://onyxwrench.medium.com/using-wildcards-in-sql-97abd712d1a2" target="_blank">Sorting with ORDER BY</a></li>
   <li><a href="https://onyxwrench.medium.com/sorting-with-order-by-ea84c515626b" target="_blank">Using Wildcards in SQL</a></li>
+   <li><a href="https://onyxwrench.medium.com/math-operations-sql-f5d0ec3df1fa" target="_blank">Math Operations SQL</a></li>
+   <li><a href="https://onyxwrench.medium.com/aggregate-functions-sql-453756e1d952" target="_blank">Aggregate Functions (SQL)</a></li>
 </ul>
