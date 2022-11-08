@@ -5,7 +5,7 @@
 
 <h3>Stats</h3>
 
-[![Kasims's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitzu-93show_icons=true&theme=tokyonight)](https://github.com/mitzu-93/github-readme-stats)
+[![Kasims's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitzu-93&show_icons=true&theme=tokyonight)](https://github.com/mitzu-93/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93)](https://github.com/mitzu-93/github-readme-stats)
 
