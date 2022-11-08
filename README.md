@@ -5,11 +5,9 @@
 
 <h3>Stats</h3>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=react-light&hide_border=true&area=true)
+[![Kasims's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitzu-93show_icons=true&theme=tokyonight)](https://github.com/mitzu-93/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitzu-93&theme=light" width="48%" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93)](https://github.com/mitzu-93/github-readme-stats)
 
 
 
