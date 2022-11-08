@@ -3,6 +3,9 @@
 <p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a>. You can also find my resume repo <a href="https://github.com/mitzu-93/resume" target="_blank">here.</a> I do sometimes write about data science, python and machine learning too. But this is more to consolidate my own learning and to document my learning for potential employers. Take a look <a href="https://onyxwrench.co.uk/" target="_blank">here.</a></p>
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
+<h3>Quickfind</h3>
+<a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#languagestechnologies-used">Technologies/Languages</h3>
+
 <h3>Stats</h3>
 
 [![Kasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-activity-graph)
