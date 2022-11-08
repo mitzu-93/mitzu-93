@@ -7,7 +7,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitzu-93&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img alt="Top Language" src="https://camo.githubusercontent.com/b89a4005e0e1125996f9d99fe5ce6bb0a9e99c995d294b531b35c21aaae9d920/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c77696e7726686964653d68746d6c2c26686964655f626f726465723d74727565267469746c655f636f6c6f723d35333931464526746578745f636f6c6f723d353535" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&amp;hide=html,&amp;hide_border=true&amp;title_color=5391FE&amp;text_color=555" style="max-width: 100%;">
 
 <h3>Languages/Technologies used</h3>
 
