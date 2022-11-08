@@ -5,9 +5,12 @@
 
 <h3>Stats</h3>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=react-light&hide_border=true&area=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitzu-93&theme=light" width="48%" >
+
 
 
 <h3>Languages/Technologies used</h3>
