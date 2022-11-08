@@ -51,3 +51,16 @@
   <li>Open Intro Statistics by David Diez, Mine Cetinkaya-Rundel and Christopher D Barr</li>
   <li>Python Machine Learning by Sebastian Raschka and Vahid Mirjalili</li>
 </ul>
+
+<h3>Blog and Articles</h3>
+<h4>SQL</h4>
+<ul>
+  <li><a href="https://onyxwrench.medium.com/retrieving-data-with-a-select-statement-f23c62baeee0" target="_blank">Retrieving Data with a SELECT Statement</a></li>
+  <li><a href="https://onyxwrench.medium.com/creating-tables-64b4befd7dc3" target="_blank">Creating Tables</a></li>
+  <li><a href="https://onyxwrench.medium.com/creating-temporary-tables-sql-2297d4b7a3a5" target="_blank">Creating Temporary Tables (SQL)</a></li>
+  <li><a href="https://onyxwrench.medium.com/adding-comments-to-sql-2633bdb29e99" target="_blank">Adding Comments to SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/basic-filtering-with-sql-5e100da03f2f" target="_blank">Basic Filtering with SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/advanced-filtering-in-or-and-not-31aeaf764c75" target="_blank">Advanced Filtering: IN, OR, and NOT</a></li>
+  <li><a href="https://onyxwrench.medium.com/using-wildcards-in-sql-97abd712d1a2" target="_blank">Sorting with ORDER BY</a></li>
+  <li><a href="https://onyxwrench.medium.com/sorting-with-order-by-ea84c515626b" target="_blank">Using Wildcards in SQL</a></li>
+</ul>
