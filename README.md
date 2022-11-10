@@ -77,4 +77,7 @@
   <li><a href="https://onyxwrench.medium.com/sorting-with-order-by-ea84c515626b" target="_blank">Using Wildcards in SQL</a></li>
    <li><a href="https://onyxwrench.medium.com/math-operations-sql-f5d0ec3df1fa" target="_blank">Math Operations SQL</a></li>
    <li><a href="https://onyxwrench.medium.com/aggregate-functions-sql-453756e1d952" target="_blank">Aggregate Functions (SQL)</a></li>
+   <li><a href="https://onyxwrench.medium.com/grouping-data-with-sql-b72e5af6107d" target="_blank">Grouping Data with SQL</a></li>
+   <li><a href="https://onyxwrench.medium.com/using-subqueries-in-sql-abaaa87805a8" target="_blank">Using Subqueries in SQL</a></li>
+
 </ul>
