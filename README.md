@@ -4,12 +4,12 @@
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 <h3>Quickfind</h3>
-<a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#languagestechnologies-used">Technologies/Languages</h3>
-<a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#certifications">Certificates</h3>
-<a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#practice-projects">Projects</h3>
-<a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#books-i-am-reading">Books I am reading</h3>
-<a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#blog-and-articles">Articles</h3>
-
+<ul>
+<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#certifications">Certificates</a></li>
+<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#books-i-am-reading">Books I am reading</a></li>
+<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#blog-and-articles">Articles</a></li>
+<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#languagestechnologies-used">Technologies/Languages</a></li>
+</ul>
 
 
 <h3>Stats</h3>
