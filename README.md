@@ -6,11 +6,11 @@
 <h3>Quickfind</h3>
 <ul>
 <li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#certifications">Certificates</a></li>
+<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#practice-projects">Projects</a></li>
 <li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#books-i-am-reading">Books I am reading</a></li>
 <li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#blog-and-articles">Articles</a></li>
 <li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#languagestechnologies-used">Technologies/Languages</a></li>
 </ul>
-
 
 <h3>Stats</h3>
 
