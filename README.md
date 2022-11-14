@@ -58,12 +58,6 @@
 
 <h3>Books I am reading</h3>
 
-<ul>
-  <li><a href="https://github.com/mitzu-93/statsandcalc" target="_blank">Stats and Calculus with Python</a> by Peter Farrell, Alvaro Fuentes, Ajinkya Sudhir Kolhe, Quan Nguyen, Alexander Joseph Sarver and Marios Tsatsos</li>
-  <li>Open Intro Statistics by David Diez, Mine Cetinkaya-Rundel and Christopher D Barr</li>
-  <li>Python Machine Learning by Sebastian Raschka and Vahid Mirjalili</li>
-</ul>
-
 <h3>Blog and Articles</h3>
 <h4>SQL</h4>
 <ul>
