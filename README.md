@@ -52,7 +52,7 @@
 
 <h3>Books I am reading</h3>
 
-<h3>Blog and Articles</h3>
+<h3>Blog and Articles I have written</h3>
 <h4>SQL</h4>
 <ul>
   <li><a href="https://onyxwrench.medium.com/retrieving-data-with-a-select-statement-f23c62baeee0" target="_blank">Retrieving Data with a SELECT Statement</a></li>
