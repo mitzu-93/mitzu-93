@@ -1,6 +1,6 @@
 <h1>Hello, welcome!</h1>
 <h3>I am a data scientist based in England</h3>
-<p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a>. You can also find my resume repo <a href="https://github.com/mitzu-93/resume" target="_blank">here.</a> I do sometimes write about data science, python and machine learning too. But this is more to consolidate my own learning and to document my learning for potential employers. Take a look <a href="https://onyxwrench.medium.com/" target="_blank">here.</a></p>
+<p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a>. You can also find my resume repo <a href="https://github.com/mitzu-93/resume" target="_blank">here.</a> I do sometimes write about data science, python and machine learning too. But this is more to consolidate my own learning and to document my learning for potential employers. Take a look <a href="https://medium.com/@kasimdata" target="_blank">here.</a></p>
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 <h3>Quickfind</h3>
@@ -25,14 +25,9 @@
 <h3>Languages/Technologies used</h3>
 
 <ul>
-  <li>HTML</li>
   <li>Python</li>
-  <li>Pandas</li>
-  <li>Matplotlib</li>
   <li>SQL</li>
   <li>Jupyter Notebook</li>
-  <li>Unit Testing</li>
-  <li>Terminal</li>
   <li>Git/Version control</li>
   <li>Mathematics</li>
   <li>Linux</li>
@@ -73,6 +68,16 @@
    <li><a href="https://onyxwrench.medium.com/aggregate-functions-sql-453756e1d952" target="_blank">Aggregate Functions (SQL)</a></li>
    <li><a href="https://onyxwrench.medium.com/grouping-data-with-sql-b72e5af6107d" target="_blank">Grouping Data with SQL</a></li>
    <li><a href="https://onyxwrench.medium.com/using-subqueries-in-sql-abaaa87805a8" target="_blank">Using Subqueries in SQL</a></li>
+   <li><a href="https://onyxwrench.medium.com/subquery-best-practices-and-considerations-c14f0ba0336e" target="_blank">Subquery Best Practices and Considerations</a></li>
+   <li><a href="https://onyxwrench.medium.com/cartesian-cross-joins-in-sql-573a41671f22" target="_blank">Cartesian (Cross) Joins in SQL</a></li>
+   <li><a href="https://onyxwrench.medium.com/inner-joins-in-sql-2085f27e8fc" target="_blank">Inner Joins in SQL</a></li>
+   <li><a href="https://onyxwrench.medium.com/aliases-and-self-joins-4c3998841337" target="_blank">Aliases and Self Joins</a></li>
+   <li><a href="https://onyxwrench.medium.com/advanced-joins-left-right-and-full-outer-joins-d54952cfe788" target="_blank">Advanced Joins: Left, Right, and Full Outer Joins</a></li>
+   <li><a href="https://kasimdata.medium.com/unions-in-sql-c7d22d4472df" target="_blank">UNIONS in SQL
+</a></li>
+   <li><a href="https://kasimdata.medium.com/working-with-text-strings-a540c2ac3730" target="_blank">Working with Text Strings
+</a></li>
+
 </ul>
 
 <h4>Pandas</h4>
