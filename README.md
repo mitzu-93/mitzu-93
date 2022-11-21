@@ -3,14 +3,6 @@
 <p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a>. You can also find my resume repo <a href="https://github.com/mitzu-93/resume" target="_blank">here.</a> I do sometimes write about data science, python and machine learning too. But this is more to consolidate my own learning and to document my learning for potential employers. Take a look <a href="https://medium.com/@kasimdata" target="_blank">here.</a></p>
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
-<h3>Quickfind</h3>
-<ul>
-<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#certifications">Certificates</a></li>
-<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#practice-projects">Projects</a></li>
-<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#blog-and-articles">Articles</a></li>
-<li><a href="https://github.com/mitzu-93/mitzu-93/blob/main/README.md#languagestechnologies-used">Technologies/Languages</a></li>
-</ul>
-
 <h3>Stats</h3>
 
 [![Kasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-activity-graph)
@@ -32,8 +24,8 @@
   <li>Linux</li>
 </ul>
 
-<h3>Certifications</h3>
-
+<details>
+<summary><h3>Certifications</h3></summary>
 <ul>
   <li>Supervised Machine Learning: Regression and Classification</li>
   <li>Advanced Learning Algorithms</li>
@@ -41,13 +33,15 @@
   <li>Machine Learning Specialisation</li>
   <li>Mathematics for Machine Lerning Specialisation [Ongoing]</li>
 </ul>
+</details>
 
-
-<h3>Practice Projects</h3>
+<details>
+<summary><h3>Practice Projects</h3></summary>
 <ul>
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis [November 7]</li>
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Ice Cream vs. Temperature [November 11]</li>
 </ul>
+</details>
 
 <h3>Books I am reading</h3>
 
