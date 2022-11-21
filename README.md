@@ -49,7 +49,6 @@
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis [November 7]</li>
   <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Ice Cream vs. Temperature [November 11]</li>
 </ul>
-  https://github.com/mitzu-93/linear-regression/blob/main/ice-cream.ipynb
 
 <h3>Books I am reading</h3>
 
