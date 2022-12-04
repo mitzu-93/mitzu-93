@@ -11,19 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
 
-
-
-<h3>Languages/Technologies used</h3>
-
-<ul>
-  <li>Python</li>
-  <li>Numpy</li>
-  <li>Pandas</li>
-  <li>SQL</li>
-  <li>Spark SQL</li>
-  <li>Jupyter Notebook</li>
-</ul>
-
 <details>
 <summary><h3>Certifications</h3></summary>
 <ul>
@@ -31,7 +18,8 @@
   <li>Advanced Learning Algorithms</li>
   <li>Unsupervised Learning, Recommenders, Reinforcement Learning</li>
   <li>Machine Learning Specialisation</li>
-  <li>Mathematics for Machine Lerning Specialisation [Ongoing]</li>
+  <li>Data Science Orientation (IBM)</li>
+  <li>SQL for Data Science</li>
 </ul>
 </details>
 
@@ -76,7 +64,6 @@
 </a></li>
 </ul>
 </details>
-
 <details>
   <summary><h4>Distributed Computing</h4></summary>
 <ul>
@@ -86,9 +73,3 @@
 </a></li>
 </ul>
 </details>
-
-
-<h4>Voila</h4>
-<ul>
-  <li>...</li>
-</ul>
