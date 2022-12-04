@@ -17,11 +17,11 @@
 
 <ul>
   <li>Python</li>
+  <li>Numpy</li>
+  <li>Pandas</li>
   <li>SQL</li>
+  <li>Spark SQL</li>
   <li>Jupyter Notebook</li>
-  <li>Git/Version control</li>
-  <li>Mathematics</li>
-  <li>Linux</li>
 </ul>
 
 <details>
@@ -70,13 +70,22 @@
 </a></li>
    <li><a href="https://kasimdata.medium.com/working-with-text-strings-a540c2ac3730" target="_blank">Working with Text Strings
 </a></li>
+  <li><a href="https://kasimdata.medium.com/case-statements-5b462b60fb8b" target="_blank">Case Statements
+</a></li>
+  <li><a href="https://kasimdata.medium.com/views-in-sql-695e12940b76" target="_blank">Views in SQL
+</a></li>
 </ul>
 </details>
 
-<h4>Pandas</h4>
+<details>
+  <summary><h4>Pandas</h4></summary>
 <ul>
-  <li>...</li>
+  <li><a href="https://kasimdata.medium.com/why-distributed-computing-a46b322dbba0" target="_blank">Why Distributed Computing?
+</a></li>
+  <li><a href="https://kasimdata.medium.com/spark-dataframes-4baf174253fa" target="_blank">Spark DataFrames
+</a></li>
 </ul>
+</details>
 
 
 <h4>Voila</h4>
