@@ -4,8 +4,6 @@
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 <h3>Stats</h3>
-[![Kasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-activity-graph)
-
 [![Kasims's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitzu-93&show_icons=true&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
@@ -25,8 +23,8 @@
 <details>
 <summary><h3>Practice Projects</h3></summary>
 <ul>
-  <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Sales Analysis [November 7]</li>
-  <li><a href="https://github.com/mitzu-93/sales-anal" target="_blank">Ice Cream vs. Temperature [November 11]</li>
+  <li>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=Ice Cream Sales Prediction)](https://github.com/mitzu-93/linear-regression)</li>
+  <li>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=Sales Analysis)](https://github.com/mitzu-93/sales-anal)</li>
 </ul>
 </details>
 
