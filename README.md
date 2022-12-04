@@ -23,10 +23,11 @@
 
 <details>
 <summary><h3>Practice Projects</h3></summary>
-<ul>
-  <li>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=linear-regression)](https://github.com/mitzu-93/linear-regression)</li>
-  <li>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=sales-anal)](https://github.com/mitzu-93/sales-anal)</li>
-</ul>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=linear-regression)](https://github.com/mitzu-93/linear-regression)
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=sales-anal)](https://github.com/mitzu-93/sales-anal)
+  
 </details>
 
 <h3>Books I am reading</h3>
