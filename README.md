@@ -4,6 +4,7 @@
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 <h3>Stats</h3>
+[![Kasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-activity-graph)
 
 [![Kasims's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitzu-93&show_icons=true&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
 
