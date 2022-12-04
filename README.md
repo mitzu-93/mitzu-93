@@ -78,7 +78,7 @@
 </details>
 
 <details>
-  <summary><h4>Pandas</h4></summary>
+  <summary><h4>Distributed Computing</h4></summary>
 <ul>
   <li><a href="https://kasimdata.medium.com/why-distributed-computing-a46b322dbba0" target="_blank">Why Distributed Computing?
 </a></li>
