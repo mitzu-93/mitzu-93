@@ -1,6 +1,6 @@
 <h1>Hello, welcome!</h1>
-<h3>I am a data scientist based in England</h3>
-<p>This is my humble setup. Please take a look at my repositories or my website for more info: <a href="https://onyxwrench.co.uk/" target="_blank">My website</a>. You can also find my resume repo <a href="https://github.com/mitzu-93/resume" target="_blank">here.</a> I do sometimes write about data science, python and machine learning too. But this is more to consolidate my own learning and to document my learning for potential employers. Take a look <a href="https://medium.com/@kasimdata" target="_blank">here.</a></p>
+<h3>I am a data engineer based in England</h3>
+<p>I am currently practicing my Python and SQL.</p>
 <img src='https://raw.githubusercontent.com/mitzu-93/mitzu-93/main/Desktop.jpg' style='img: width 200px, height:auto'>
 
 <h3>Stats</h3>
@@ -8,6 +8,9 @@
 [![Kasims's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitzu-93&show_icons=true&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
+
+<p><a href="https://onyxwrench.co.uk/" target="_blank">My website</a></p>
+<p><a href="https://medium.com/@kasimdata" target="_blank">My blog.</a></p>
 
 <details>
 <summary><h3>Certifications</h3></summary>
@@ -18,15 +21,13 @@
   <li>Machine Learning Specialisation</li>
   <li>Data Science Orientation (IBM)</li>
   <li>SQL for Data Science</li>
+  <li>Generation Bootcamp: Data Engineering</li>
 </ul>
 </details>
 
 <details>
-<summary><h3>Practice Projects</h3></summary>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=linear-regression)](https://github.com/mitzu-93/linear-regression)
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mitzu-93&repo=sales-anal)](https://github.com/mitzu-93/sales-anal)
+  ...
   
 </details>
 
@@ -44,18 +45,18 @@
   <li><a href="https://onyxwrench.medium.com/advanced-filtering-in-or-and-not-31aeaf764c75" target="_blank">Advanced Filtering: IN, OR, and NOT</a></li>
   <li><a href="https://onyxwrench.medium.com/using-wildcards-in-sql-97abd712d1a2" target="_blank">Sorting with ORDER BY</a></li>
   <li><a href="https://onyxwrench.medium.com/sorting-with-order-by-ea84c515626b" target="_blank">Using Wildcards in SQL</a></li>
-   <li><a href="https://onyxwrench.medium.com/math-operations-sql-f5d0ec3df1fa" target="_blank">Math Operations SQL</a></li>
-   <li><a href="https://onyxwrench.medium.com/aggregate-functions-sql-453756e1d952" target="_blank">Aggregate Functions (SQL)</a></li>
-   <li><a href="https://onyxwrench.medium.com/grouping-data-with-sql-b72e5af6107d" target="_blank">Grouping Data with SQL</a></li>
-   <li><a href="https://onyxwrench.medium.com/using-subqueries-in-sql-abaaa87805a8" target="_blank">Using Subqueries in SQL</a></li>
-   <li><a href="https://onyxwrench.medium.com/subquery-best-practices-and-considerations-c14f0ba0336e" target="_blank">Subquery Best Practices and Considerations</a></li>
-   <li><a href="https://onyxwrench.medium.com/cartesian-cross-joins-in-sql-573a41671f22" target="_blank">Cartesian (Cross) Joins in SQL</a></li>
-   <li><a href="https://onyxwrench.medium.com/inner-joins-in-sql-2085f27e8fc" target="_blank">Inner Joins in SQL</a></li>
-   <li><a href="https://onyxwrench.medium.com/aliases-and-self-joins-4c3998841337" target="_blank">Aliases and Self Joins</a></li>
-   <li><a href="https://onyxwrench.medium.com/advanced-joins-left-right-and-full-outer-joins-d54952cfe788" target="_blank">Advanced Joins: Left, Right, and Full Outer Joins</a></li>
-   <li><a href="https://kasimdata.medium.com/unions-in-sql-c7d22d4472df" target="_blank">UNIONS in SQL
+  <li><a href="https://onyxwrench.medium.com/math-operations-sql-f5d0ec3df1fa" target="_blank">Math Operations SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/aggregate-functions-sql-453756e1d952" target="_blank">Aggregate Functions (SQL)</a></li>
+  <li><a href="https://onyxwrench.medium.com/grouping-data-with-sql-b72e5af6107d" target="_blank">Grouping Data with SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/using-subqueries-in-sql-abaaa87805a8" target="_blank">Using Subqueries in SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/subquery-best-practices-and-considerations-c14f0ba0336e" target="_blank">Subquery Best Practices and Considerations</a></li>
+  <li><a href="https://onyxwrench.medium.com/cartesian-cross-joins-in-sql-573a41671f22" target="_blank">Cartesian (Cross) Joins in SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/inner-joins-in-sql-2085f27e8fc" target="_blank">Inner Joins in SQL</a></li>
+  <li><a href="https://onyxwrench.medium.com/aliases-and-self-joins-4c3998841337" target="_blank">Aliases and Self Joins</a></li>
+  <li><a href="https://onyxwrench.medium.com/advanced-joins-left-right-and-full-outer-joins-d54952cfe788" target="_blank">Advanced Joins: Left, Right, and Full Outer Joins</a></li>
+  <li><a href="https://kasimdata.medium.com/unions-in-sql-c7d22d4472df" target="_blank">UNIONS in SQL
 </a></li>
-   <li><a href="https://kasimdata.medium.com/working-with-text-strings-a540c2ac3730" target="_blank">Working with Text Strings
+  <li><a href="https://kasimdata.medium.com/working-with-text-strings-a540c2ac3730" target="_blank">Working with Text Strings
 </a></li>
   <li><a href="https://kasimdata.medium.com/case-statements-5b462b60fb8b" target="_blank">Case Statements
 </a></li>
