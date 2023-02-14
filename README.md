@@ -9,8 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzu-93&theme=dracula)](https://github.com/mitzu-93/github-readme-stats)
 
-<p><a href="https://onyxwrench.co.uk/" target="_blank">My website</a></p>
-<p><a href="https://medium.com/@kasimdata" target="_blank">My blog.</a></p>
+<p><a href="https://onyxwrench.co.uk/" target="_blank">My Website</a></p>
+<p><a href="https://medium.com/@kasimdata" target="_blank">My Blog</a></p>
 
 <details>
 <summary><h3>Certifications</h3></summary>
