@@ -48,10 +48,10 @@
 
 
 ## Other Stuff
-  - My Resume: [My Resume](http://onyxwrench.co.uk/Resume_MuhammadKasimAli.pdf)
-  - My website: [My Website](http://onyxwrench.co.uk/)
-  - Blog: [My Blog](https://kasimdata.medium.com/)
-  - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/kasimdata/)
-  - Twitter: [My Twitter](https://twitter.com/KasimData)
+  - [My Resume](http://onyxwrench.co.uk/Resume_MuhammadKasimAli.pdf)
+  - [My Website](http://onyxwrench.co.uk/)
+  - [My Blog](https://kasimdata.medium.com/)
+  - [My LinkedIn](https://www.linkedin.com/in/kasimdata/)
+  - [My Twitter](https://twitter.com/KasimData)
 
 
