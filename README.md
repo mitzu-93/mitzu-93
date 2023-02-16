@@ -36,7 +36,7 @@
 	def Ambitions():
 		LearnKorean()
 		LearnVietnamese()
-		1PercentBetterEachWeek()
+		OnePercentBetter()
 		# Assume several more ambitions here  ;)
 	
  ```
@@ -48,10 +48,10 @@
 
 
 ## Other Stuff
-  - My Resume:
-  - My website:
-  - Blog:
-  - LinkedIn:
-  - Twitter:
+  - My Resume: [My Resume](http://onyxwrench.co.uk/Resume_MuhammadKasimAli.pdf)
+  - My website: [My Website](http://onyxwrench.co.uk/)
+  - Blog: [My Blog](https://kasimdata.medium.com/)
+  - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/kasimdata/)
+  - Twitter: [My Twitter](https://twitter.com/KasimData)
 
 
