@@ -4,8 +4,6 @@
 * Python :snake:
 * Robotics :rocket:
 * VSCode :vs:
-* Machine Learning :books:
-* OpenCV :eyes:
 
 ## :closed_book: My Skills
 * Python :snake:
@@ -14,9 +12,6 @@
 * NumPy :1234:
 * Terminal :white_square_button:
 * Version Control :leftwards_arrow_with_hook:
-* Tableau :signal_strength:
-* Machine Learning :books:
-* Statistics :repeat_one:
 
  ## Who am I?
  ```python
@@ -27,7 +22,7 @@
 				'Jiu Jitsu',
 				'Swimming',
 				'Wrestling'
-				'Vertical Farming'
+				'Languages'
 			]
 	
 	def getCity():
@@ -42,7 +37,7 @@
  ```
  
  ## Current Works
- * Started learning the Data Science Stack 9 months ago: Python, SQL, Tableau, Machine Learning, Stats.
+ * Started learning computer science skills about 12 months ago.
  * I'm currently working on building my portfolio with projects to demonstrate my proficiency.
  * Reading through O'Reily books for **fun**
 
