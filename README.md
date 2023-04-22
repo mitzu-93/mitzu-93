@@ -12,6 +12,8 @@
 * NumPy :1234:
 * Terminal :white_square_button:
 * Version Control :leftwards_arrow_with_hook:
+* Django :white_square_button:
+* JavaScript Control :leftwards_arrow_with_hook:
 
  ## Who am I?
  ```python
