@@ -12,9 +12,9 @@
 * NumPy :1234:
 * Terminal :white_square_button:
 * Version Control :leftwards_arrow_with_hook:
-* Django
-* JavaScript
-* jQuery
+* Django :diamond_shape_with_a_dot_inside:
+* JavaScript :computer:
+* jQuery :cool:
 
  ## Who am I?
  ```python
@@ -42,14 +42,11 @@
  ## Current Works
  * Started learning computer science skills about 12 months ago.
  * I'm currently working on building my portfolio with projects to demonstrate my proficiency.
- * Reading through O'Reily books for **fun**
 
 
 ## Other Stuff
   - [My Resume](http://onyxwrench.co.uk/Resume_MuhammadKasimAli.pdf)
   - [My Website](http://onyxwrench.co.uk/)
-  - [My Blog](https://kasimdata.medium.com/)
-  - [My LinkedIn](https://www.linkedin.com/in/kasimdata/)
-  - [My Twitter](https://twitter.com/KasimData)
-
+  - [My Blog](https://kasimcodes.medium.com/)
+  - [My LinkedIn](https://www.linkedin.com/in/kasimcodes/)
 
