@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub page.</h1>
 
-## :computer: Technologies I :heart:
+## :computer: What I :heart:
 * Python :snake:
 * Machine Learning :rocket:
 * VSCode :vs:
