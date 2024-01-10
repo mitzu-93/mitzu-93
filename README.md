@@ -2,19 +2,10 @@
 
 ## :computer: Technologies I :heart:
 * Python :snake:
-* Robotics :rocket:
+* Machine Learning :rocket:
 * VSCode :vs:
-
-## :closed_book: My Skills
-* Python :snake:
-* SQL :capital_abcd:
-* Pandas :panda_face:
-* NumPy :1234:
-* Terminal :white_square_button:
-* Version Control :leftwards_arrow_with_hook:
-* Django :diamond_shape_with_a_dot_inside:
-* JavaScript :computer:
-* jQuery :cool:
+* Robots :alien:
+* Mathematics :math:
 
  ## Who am I?
  ```python
@@ -29,24 +20,13 @@
 			]
 	
 	def getCity():
-		return Birmingham_England()
+		return Daegu_SouthKorea()
 	
 	def Ambitions():
 		LearnKorean()
-		LearnVietnamese()
-		OnePercentBetter()
+		StudyMath()
+		BuildSoftware()
 		# Assume several more ambitions here  ;)
 	
  ```
- 
- ## Current Works
- * Started learning computer science skills about 12 months ago.
- * I'm currently working on building my portfolio with projects to demonstrate my proficiency.
-
-
-## Other Stuff
-  - [My Resume](http://onyxwrench.co.uk/Resume_MuhammadKasimAli.pdf)
-  - [My Website](http://onyxwrench.co.uk/)
-  - [My Blog](https://kasimcodes.medium.com/)
-  - [My LinkedIn](https://www.linkedin.com/in/kasimcodes/)
 
