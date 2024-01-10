@@ -5,7 +5,7 @@
 * Machine Learning :rocket:
 * VSCode :vs:
 * Robots :alien:
-* Mathematics :math:
+* Mathematics :1234:
 
  ## Who am I?
  ```python
