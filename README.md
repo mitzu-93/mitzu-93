@@ -13,10 +13,10 @@
  	user = 'Kasim Ali'
 		current_work = 'Writing code'
 		hobbies = [
-				'Jiu Jitsu',
-				'Swimming',
-				'Wrestling'
-				'Languages'
+				'Grappling',
+				'Mathematics',
+				'Coding'
+				'Teaching'
 			]
 	
 	def getCity():
